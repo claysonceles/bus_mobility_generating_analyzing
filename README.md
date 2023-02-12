@@ -1,1 +1,5 @@
-# bus_mobility_generating_analyzing
+# Generating and Analyzing Mobility Traces for Bus-based Vehicular Networks
+
+One of the main issues in the design of vehicular networks is the understanding of vehicles' mobility, which is determined by their type. In this work, we investigate how the mobility of buses influences the structure of a bus-based vehicular network. In this direction, we present a comprehensive analysis of bus mobility in vehicular networks. We generate bus mobility traces using official data from public transport agencies of four different cities. Our generated traces reveal crucial characteristics of bus-based vehicular networks obtained from them. In particular, we uncover details about the network topology and how spatiotemporal aspects impact it by analyzing four factors: network, component, node, and contact. In addition, with the information gained from our analysis, we perform experiments to assess practical aspects of the design of routing protocols in bus-based vehicular networks. Finally, we make the traces generated publicly available to the research community as standard benchmark data for validating solutions.
+
+More information: https://homepages.dcc.ufmg.br/~claysonceles/busmobility
